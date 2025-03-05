@@ -2,3 +2,9 @@ header{
     background-color: rgba(218, 15, 15, 0.815);
     color: rgba(250, 204, 0, 0.829);
 }
+div > h2 {
+    text-align: center;
+    padding: 20px;
+    font-family: lobster, cursive;
+    text-decoration: underline;
+}
