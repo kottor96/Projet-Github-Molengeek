@@ -1,10 +1,28 @@
 header{
-    background-color: rgba(218, 15, 15, 0.815);
-    color: rgba(250, 204, 0, 0.829);
+    background-color: rgba(93, 211, 185, 0.815);
+    text-align: center;
 }
 div > h2 {
     text-align: center;
     padding: 20px;
     font-family: lobster, cursive;
     text-decoration: underline;
+}
+.card-body{
+    background-color: rgba(252, 186, 5, 0.555);
+}
+.list-group-item{
+    text-align: center;
+}
+.Plat{
+    background-color: rgb(61, 95, 133);
+}
+.Entrée{
+    background-color: rgb(58, 158, 158);
+}
+.Dessert{
+    background-color: rgba(41, 95, 102, 0.664);
+}
+section{
+    padding-bottom: 40px;
 }
