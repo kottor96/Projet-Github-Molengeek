@@ -9,7 +9,7 @@ div > h2 {
     text-decoration: underline;
 }
 .card-body{
-    background-color: #c9bf63;
+    background-color: #c9bf63 !important;
 }
 .list-group-item{
     text-align: center;
