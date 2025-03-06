@@ -1,5 +1,5 @@
 header{
-    background-color: rgba(93, 211, 185, 0.815);
+    background-color: #c9bf63;
     text-align: center;
 }
 div > h2 {
@@ -9,23 +9,26 @@ div > h2 {
     text-decoration: underline;
 }
 .card-body{
-    background-color: rgba(252, 186, 5, 0.555);
+    background-color: #c9bf63;
 }
 .list-group-item{
     text-align: center;
 }
 .Plat{
-    background-color: rgb(61, 95, 133);
+    background-color: rgb(175, 175, 175);
 }
 .Entrée{
-    background-color: rgb(58, 158, 158);
+    background-color: #7e9db2;
 }
 .Dessert{
-    background-color: rgba(41, 95, 102, 0.664);
+    background-color: rgba(100, 154, 216, 0.76);
 }
 section{
     padding-bottom: 40px;
 }
 footer{
     text-align: center;
+}
+.nav-item > a{
+    color: #ffffff;
 }
